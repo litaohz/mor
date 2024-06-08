@@ -1,0 +1,2 @@
+Model	Count	Correct	False Positive	False Negative	PredictY	PredictN	Acc	Coverage
+FiD_2Patch_Contriver	6942	4085	2525	332	5735	1207	58.63%	99.64%
